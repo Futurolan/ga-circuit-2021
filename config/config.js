@@ -1,8 +1,8 @@
 const config = {
-  title: 'Gamers Assembly : Circuit 2021',
-  logo: '/static/img/logo.png',
-  description: 'Gamers Assembly 2021 : un circuit inédit !',
-  metaImagePath: '/static/img/logo.png',
+  title: 'Gamers Assembly Tour 2021',
+  logo: '/static/img/_logos_1.png',
+  description: 'Gamers Assembly Tour 2021 : un circuit inédit !',
+  metaImagePath: '/static/img/_logos_1.png',
   gaTrackingId: 'UA-128777022-14',
   mainPartner: {
     logo: '/static/img/logo_gp.png',
@@ -26,7 +26,7 @@ const config = {
   },
   news: {
     title: 'Actualités',
-    description: 'Retrouvez toutes les actualités du circuit Gamers Assembly 2021',
+    description: 'Retrouvez toutes les actualités du Gamers Assembly Tour 2021',
     link: '/news'
   },
   partners: {
@@ -37,7 +37,7 @@ const config = {
   tournaments: {
     title: 'Tournois',
     // navTitle: '<img src="/static/img/tournoisga.png" style="max-height:none">',
-    description: 'Tous les tournois de la prochaine étape du circuit Gamers Assembly 2021',
+    description: 'Tous les tournois de la prochaine étape du Gamers Assembly Tour 2021',
     // notification: '<div class="columns is-vcentered has-text-centered"><div class="column is-2"><img src="/static/img/logo_ga_oes.png"></div><div class="column">Il ne peut pas y avoir d\'Occitanie Esports sans sa Gamers Assembly et son lot de tournois !<br>Voici donc tous les tournois aussi esports et fun les uns que les autres mais surtout le plus important : des tournois GA certified.</div></div>',
     link: '/tournois'
   },
@@ -58,7 +58,7 @@ const config = {
   },
   tickets: {
     title: 'Billetterie',
-    description: 'Achetez vos places pour le circuit Gamers Assembly 2021',
+    description: 'Achetez vos places pour le Gamers Assembly Tour 2021',
     link: '/billetterie',
     // notification: '<strong>ATTENTION !</strong><br />Jusqu\'au 11 mars, profitez d\'une réduction de 10 € par place joueur avec le code de réduction <strong>#GA2020</strong><br />  (NE PAS OUBLIER dès le début de l\'inscription, à l\'étape 1)',
     pass: {
