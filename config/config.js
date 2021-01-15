@@ -1,8 +1,8 @@
 const config = {
   title: 'Gamers Assembly Tour 2021',
-  logo: '/static/img/_logos_1.png',
+  logo: '/static/img/logo_we_100x100.png',
   description: 'Gamers Assembly Tour 2021 : un circuit inédit !',
-  metaImagePath: '/static/img/_logos_1.png',
+  metaImagePath: '/static/img/logo_we_100x100.png',
   gaTrackingId: 'UA-128777022-14',
   mainPartner: {
     logo: '/static/img/logo_gp.png',
