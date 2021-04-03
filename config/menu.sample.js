@@ -1,6 +1,6 @@
 const menu = [
   { type: 'config', id: 'news' },
-  // { type: 'co nfig', id: 'live' },
+  // { type: 'config', id: 'live' },
   {
     type: 'nolink',
     backgroundColor: '#f9dc00',
