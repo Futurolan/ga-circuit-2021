@@ -34,8 +34,7 @@ class TwitchPlayer extends React.Component {
       return (
         <div data-index={this.props.index} className={`ga-twitch-player ${this.props.active ? 'enable' : 'disable'}`} style={{ background: `url('${this.props.img}') no-repeat center center` }}>
           <iframe
-            src={`https://player.twitch.tv/?channel=${this.props.channel}`}
-            parent='ga2021.gamers-assembly.net'
+            src={`https://player.twitch.tv/?channel=${this.props.channel}&parent=ga2021.gamers-assembly.net`}
             frameBorder='none'
             scrolling='no'
             width='100%'
