@@ -3,7 +3,7 @@ const config = {
   logo: '/static/img/logo_fe.png',
   description: 'Gamers Assembly 2021 Online Editions',
   metaImagePath: '/static/img/logo_fe.png',
-  gaTrackingId: 'UA-128777022-14',
+  gaTrackingId: 'G-NCMLKDFHW8',
   mainPartner: {
     logo: '/static/img/logo_gp.png',
     url: 'https://www.grandpoitiers.fr/'
