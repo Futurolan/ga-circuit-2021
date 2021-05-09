@@ -1,4 +1,4 @@
-FROM nodejs:15-14-alpine
+FROM node:15-14-alpine
 
 EXPOSE 3000
 
