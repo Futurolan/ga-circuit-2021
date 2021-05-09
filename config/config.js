@@ -1,8 +1,8 @@
 const config = {
   title: 'Gamers Assembly 2021',
-  logo: '/static/img/logo_fe.png',
+  logo: '/static/img/logo_se.png',
   description: 'Gamers Assembly 2021 Online Editions',
-  metaImagePath: '/static/img/logo_fe.png',
+  metaImagePath: '/static/img/logo_se.png',
   gaTrackingId: 'G-NCMLKDFHW8',
   mainPartner: {
     logo: '/static/img/logo_gp.png',
