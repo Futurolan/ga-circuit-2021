@@ -9,7 +9,7 @@ const config = {
     url: 'https://www.grandpoitiers.fr/'
   },
   home: {
-    banner: '/static/img/Header_Web.jpg',
+    banner: '/static/img/Header_Web.png',
     // hero: {
     //   background: '/static/img/bg-grey-area.jpg',
     //   backgroundVideo: 'https://temp.gamers-assembly.net/ga2018.mp4',
